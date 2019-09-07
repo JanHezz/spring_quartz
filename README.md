@@ -1,0 +1,2 @@
+# spring_quartz
+一个基于springboot整合quartz框架demo。可通过配置的方式动态的指定定时调度的任务，方式以及时间。
